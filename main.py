@@ -2,6 +2,7 @@ import asyncio
 import logging
 import sys
 from os import getenv
+#hello
 
 from aiogram import Bot, Dispatcher, html
 from aiogram.client.default import DefaultBotProperties
